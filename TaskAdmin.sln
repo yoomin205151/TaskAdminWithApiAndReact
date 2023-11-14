@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskAdmin", "TaskAdmin\TaskAdmin.csproj", "{84B77F5A-3CD2-4A5F-9C85-BE543EAF062E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84B77F5A-3CD2-4A5F-9C85-BE543EAF062E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B77F5A-3CD2-4A5F-9C85-BE543EAF062E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B77F5A-3CD2-4A5F-9C85-BE543EAF062E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B77F5A-3CD2-4A5F-9C85-BE543EAF062E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65D10B1D-5E3F-46BE-AAAC-72A389973551}
+	EndGlobalSection
+EndGlobal
